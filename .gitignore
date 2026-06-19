@@ -1,2 +1,3 @@
 # Local Environment Secrets (CRITICAL for OpenAI/Band tokens)
 .env
+agent_config.yaml
