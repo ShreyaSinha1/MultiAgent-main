@@ -1,0 +1,2 @@
+# Local Environment Secrets (CRITICAL for OpenAI/Band tokens)
+.env
