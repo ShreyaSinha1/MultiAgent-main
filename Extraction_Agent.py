@@ -13,7 +13,6 @@ from thenvoi import ExecutionContext, AgentTools
 import requests
 from thenvoi import ThenvoiLink
 #AlphaAgents
-#band_u_1781834440_UH8Wc3YRDxYQbmG9qhFOgFJC6HCNQvkL
 
 # my_rest_client = requests.Session()
 # my_rest_client.headers.update({
